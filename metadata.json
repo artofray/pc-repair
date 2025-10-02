@@ -1,0 +1,5 @@
+{
+  "name": "PC Repair AI Diagnostics",
+  "description": "An AI-powered diagnostic tool that helps you troubleshoot and repair software issues on your Windows PC. Describe your problem, and the AI will provide a step-by-step guide to fix it.",
+  "requestFramePermissions": []
+}
